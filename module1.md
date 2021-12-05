@@ -12,3 +12,9 @@ Null <br/>
 Undefined <br/>
 Symbol <br/>
 Object <br/>
+
+**String Data Type** <br/>
+Backticks are really helpful to use with strings because you can do variable interpolation ${variable or operation}.
+```
+const hello = `hello ${name}!`;
+```
